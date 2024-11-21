@@ -1,5 +1,5 @@
-## Certificate Status (Updated at 2024-11-20 23:42:23)
+## Certificate Status (Updated at 2024-11-21 23:42:21)
 | Domain | Expiry Date (EC) | Issuer (EC) | Expiry Date (RSA) | Issuer (RSA) |
 |--------|------------------|-------------|-------------------|--------------|
-| neoaigc.com | Dec 21 05:45:42 2024 GMT |  O = Let's Encrypt | Dec 21 05:45:45 2024 GMT |  O = Let's Encrypt |
+| neoaigc.com | Feb 19 05:50:08 2025 GMT |  O = Let's Encrypt | Feb 19 05:50:12 2025 GMT |  O = Let's Encrypt |
 | showcolor.cc | Oct  9 07:53:36 2024 GMT |  O = Let's Encrypt | Oct  9 07:53:41 2024 GMT |  O = Let's Encrypt |
