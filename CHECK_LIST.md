@@ -1,4 +1,4 @@
-## Certificate Status (Updated at 2026-09-15 01:51:50)
+## Certificate Status (Updated at 2026-09-16 01:36:15)
 | Domain | Expiry Date (EC) | Issuer (EC) | Expiry Date (RSA) | Issuer (RSA) |
 |--------|------------------|-------------|-------------------|--------------|
 | neoaigc.com | Dec 11 10:11:50 2026 GMT |  O = Let's Encrypt | Dec 11 10:11:55 2026 GMT |  O = Let's Encrypt |
